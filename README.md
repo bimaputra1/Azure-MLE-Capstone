@@ -212,7 +212,7 @@ As a result, the model will send back the response as below
 This means that our model are worked and ready to used.
 
 ## Screen Recording
-Below is the link of demo video https://youtu.be/bpdaCKF5zD4
+Below is the link of demo video https://youtu.be/kVckX5MVBHE
 
 ## Future Improvement
 This performances of this model can be further improved by increasing the training time limit. By doing this, the AutoML will continue to find the best model and increase our chance to get better model performances. 
